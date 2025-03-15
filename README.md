@@ -4,7 +4,8 @@ This project focuses on classifying Tamil text into different categories using a
 
 ## Dataset
 
-The project utilizes a Tamil text dataset sourced from your Google Drive. The dataset consists of text samples with corresponding category labels. These labels are encoded numerically for model training.
+The project utilizes a Tamil text dataset sourced from the following competition:
+DravidianLangTech@FIRE 2024 - Shared Task on Offensive Language Identification in Tamil (https://codalab.lisn.upsaclay.fr/competitions/20702#learn_the_details-terms_and_conditions)**
 
 ## Preprocessing
 
